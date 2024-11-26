@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BadExCommand/BadExCommand.iml" filepath="$PROJECT_DIR$/BadExCommand/BadExCommand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GoodExCommand/GoodExCommand.iml" filepath="$PROJECT_DIR$/GoodExCommand/GoodExCommand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SER315Honors.iml" filepath="$PROJECT_DIR$/SER315Honors.iml" />
+    </modules>
+  </component>
+</project>
