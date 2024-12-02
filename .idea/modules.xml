@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BadExCommand/BadExCommand.iml" filepath="$PROJECT_DIR$/BadExCommand/BadExCommand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BadExFacade/BadExFacade.iml" filepath="$PROJECT_DIR$/BadExFacade/BadExFacade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BadExPrototype/BadExPrototype.iml" filepath="$PROJECT_DIR$/BadExPrototype/BadExPrototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/GoodExCommand/GoodExCommand.iml" filepath="$PROJECT_DIR$/GoodExCommand/GoodExCommand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GoodExFacade/GoodExFacade.iml" filepath="$PROJECT_DIR$/GoodExFacade/GoodExFacade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GoodExPrototype/GoodExPrototype.iml" filepath="$PROJECT_DIR$/GoodExPrototype/GoodExPrototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/SER315Honors.iml" filepath="$PROJECT_DIR$/SER315Honors.iml" />
     </modules>
   </component>
