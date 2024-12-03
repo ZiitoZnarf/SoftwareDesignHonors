@@ -1,13 +1,29 @@
 import java.util.ArrayList;
 
+/**
+ * An interface for simulating management of a system in which you can order
+ * cakes that you have designed. Also includes some template cakes which you
+ * can view
+ *
+ * @author Christian S.
+ * @version 12-2-24
+ *
+ */
 public class CakeManager {
 
     private ArrayList<Cake> orderedCakes;
 
+    /**
+     * Initializes CakeManager as well as its list of stored cakes
+     */
     public CakeManager() {
         orderedCakes = new ArrayList<>();
     }
 
+    /**
+     * Provides an array of template Cake objects.
+     * @return the array of Cake objects
+     */
     public static Cake[] getStoredCakes() {
         Cake[] cakes = new Cake[3];
         cakes[0] = new Cake("Chocolate", "Chocolate", "Happy Choco Day!!");
@@ -26,6 +42,10 @@ public class CakeManager {
         return cakes;
     }
 
+    /**
+     * Adds the cake to the CakeManagers list of ordered Cakes.
+     * @param cake the cake object to be ordered
+     */
     public void orderCake(Cake cake) {
         orderedCakes.add(cake);
     }
