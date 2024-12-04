@@ -2,6 +2,9 @@
  * An interface to represent that an object is able to
  * have the cloneItem() method, which returns a deep copy
  * of the referenced object.
+ *
+ * @author Christian S.
+ * @version 12-3-24
  */
 public interface Prototype {
 

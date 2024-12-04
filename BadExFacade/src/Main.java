@@ -1,5 +1,15 @@
 import java.util.ArrayList;
 
+/**
+ * This main class simulates the client or user interacting with this system.
+ * For this particular program, they are required to manipulate many objects
+ * in what appears to be spaghetti code. This is mainly a result of the
+ * classes not being designed with simplicity in mind. This client also
+ * has access to many variables of these different classes.
+ *
+ * @author Christian S.
+ * @version 12-3-24
+ */
 public class Main {
     public static void main(String[] args) {
         Store theStore = new Store();
