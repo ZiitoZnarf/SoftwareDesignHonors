@@ -1,0 +1,1 @@
+Contains Examples for various design patterns. The "bad" examples contain a program which lacks the implementation of the design pattern. The "good" example is the same example recreated with a design patterns being used. 
